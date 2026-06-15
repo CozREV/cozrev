@@ -41,6 +41,8 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
