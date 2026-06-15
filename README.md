@@ -4,6 +4,8 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 
 - 🔭 Currently working on web and backend projects
 - 🌱 Learning fullstack at GET Academy + Scrimba
+- ⚡ Fun fact: I want to make my own game with Godot + Blender someday
+- 📫 How to reach me: kristianafg@proton.me
 
 ---
 
