@@ -1,9 +1,9 @@
 ### Hi, I'm Kristian 👋
 
-Fullstack developer based in Norway. Currently learning fullstack development at [GET Academy](https://getacademy.no/start-it) and [Scrimba](https://scrimba.com), covering JavaScript, C#, ASP.NET, SQL and everything in between.
+Fullstack developer based in Norway. Currently studying fullstack development at [GET Academy](https://getacademy.no/start-it) and [Scrimba](https://scrimba.com/fullstack-path-c0fullstack), covering everything from frontend to backend.
 
 - 🔭 Currently working on web and backend projects
-- 🌱 Learning fullstack development at GET Academy + Scrimba
+- 🌱 Learning fullstack at GET Academy + Scrimba (React, Node.js, Express, SQL, TypeScript, Next.js)
 
 ---
 
@@ -19,9 +19,14 @@ Fullstack developer based in Norway. Currently learning fullstack development at
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Learning**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
 **Other**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -31,9 +36,10 @@ Fullstack developer based in Norway. Currently learning fullstack development at
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| [TakeawayLarvik](https://github.com/CozREV/TakeawayLarvik) | JS / MVC | Full ordering system with cart, payment flow, and restaurant management |
+| [TakeawayLarvik](https://github.com/CozREV/TakeawayLarvik) | JS / MVC | Team project — full takeaway ordering system with cart, payment, login, allergy filters and restaurant management |
+| [zombies-game-prototype](https://github.com/CozREV/zombies-game-prototype) | Godot 4 / C# | COD Zombies-inspired FPS — gun system, ragdoll deaths, round scaling, zombie AI, HUD *(on hiatus)* |
 | [Instagram-Clone](https://github.com/CozREV/Instagram-Clone) | HTML/CSS | UI clone built from scratch |
-| [Unit-converter](https://github.com/CozREV/Unit-converter) | JavaScript | Converter app |
+| [Unit-converter](https://github.com/CozREV/Unit-converter) | JavaScript | Unit converter app |
 | [Passord-Generator](https://github.com/CozREV/Passord-Generator) | CSS/JS | Password generator |
 
 ---
