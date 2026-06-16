@@ -33,13 +33,13 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 **Want to Learn**
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white)
 
 **Other**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
