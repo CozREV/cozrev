@@ -1,9 +1,7 @@
 ### Hi, I'm Kristian 👋
-
 Fullstack developer based in Norway. Currently studying fullstack development at [GET Academy](https://getacademy.no/start-it) and [Scrimba](https://scrimba.com/fullstack-path-c0fullstack), covering everything from frontend to backend.
-
-- 🔭 Currently working on web and backend projects
-- 🌱 Learning fullstack at GET Academy + Scrimba
+- 🔭 Currently building **PackPon**, a Japan trip planner app (packing list, budget tracker, yen converter)
+- 🌱 Learning fullstack at GET Academy + Scrimba — wrapping up Essential JavaScript, React/Node.js next
 - ⚡ Fun fact: I want to make my own game with Godot + Blender someday
 - 📫 How to reach me: kristianafg@proton.me
 
@@ -47,15 +45,14 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ---
 
 ### 🎓 Certifications
-
 - [Learn Git and GitHub](https://scrimba.com/learn-git-and-github-c0eh4kd7df) — Scrimba (June 2026)
 
 ---
 
 ### 📌 Projects
-
 | Project | Tech | Description |
 |--------|------|-------------|
+| [PackPon](https://github.com/CozREV/PackPon) | JS / MVC | Japan trip planner: packing list, budget tracker, yen converter *(in active development)* |
 | [TakeawayLarvik](https://github.com/CozREV/TakeawayLarvik) | JS / MVC | Team project: full takeaway ordering system with cart, payment, login, allergy filters and restaurant management |
 | [zombies-game-prototype](https://github.com/CozREV/zombies-game-prototype) | Godot 4 / C# | COD Zombies-inspired FPS: gun system, ragdoll deaths, round scaling, zombie AI, HUD *(on hiatus)* |
 | [Instagram-Clone](https://github.com/CozREV/Instagram-Clone) | HTML/CSS | UI clone built from scratch |
@@ -65,6 +62,5 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ---
 
 ### 📊 GitHub Stats
-
 ![CozREV's GitHub stats](https://github-readme-stats.vercel.app/api?username=CozREV&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozREV&layout=compact&theme=dark&hide_border=true)
