@@ -63,5 +63,5 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ---
 
 ### 📊 GitHub Stats
-![CozREV's GitHub stats](https://github-readme-stats.vercel.app/api?username=CozREV&show_icons=true&theme=dark&hide_border=true&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozREV&layout=compact&theme=dark&hide_border=true&cache_seconds=1)
+![CozREV's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CozREV&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CozREV&layout=compact&theme=dark&hide_border=true)
