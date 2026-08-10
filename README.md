@@ -20,6 +20,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 **Learning (GET Academy)**
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
 **Learning (Scrimba)**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
