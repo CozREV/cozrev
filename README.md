@@ -1,6 +1,6 @@
 ### Hi, I'm Kristian 👋
 Fullstack developer based in Norway. Currently studying fullstack development at [GET Academy](https://getacademy.no/start-it) and [Scrimba](https://scrimba.com/fullstack-path-c0fullstack), covering everything from frontend to backend.
-- 🔭 Fully locked in on Scrimba's Backend Developer path right now, and building PackPon on the side when I have time, a Japan trip planner app with a packing list, budget tracker, and yen converter.
+- 🔭 Fully locked in on Scrimba's Backend Developer path & AI Engineering path right now, and building PackPon on the side when I have time, a Japan trip planner app with a packing list, budget tracker, and yen converter.
 - 🌱 Learning fullstack at GET Academy + Scrimba - Currently on Essential JavaScript
 - ⚡ Fun fact: I want to make my own game with Godot/Unity + Blender someday
 - 📫 How to reach me: kristianafg@proton.me
@@ -48,6 +48,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 
 ### 🎓 Certifications
 - [Learn Git and GitHub](https://scrimba.com/learn-git-and-github-c0eh4kd7df) — Scrimba (June 2026)
+- [Learn JavaScript](https://scrimba.com/learn-javascript-c0v) — Scrimba (August 2026)
 
 ---
 
