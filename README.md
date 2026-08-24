@@ -49,6 +49,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ### 🎓 Certifications
 - [Learn Git and GitHub](https://scrimba.com/learn-git-and-github-c0eh4kd7df) — Scrimba (June 2026)
 - [Learn JavaScript](https://scrimba.com/learn-javascript-c0v) — Scrimba (August 2026)
+- [Learn Modern JavaScript](https://scrimba.com/learn-modern-javascript-c02j) — Scrimba (August 2026)
 
 ---
 
