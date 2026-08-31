@@ -16,6 +16,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 
 **Backend**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Learning (GET Academy)**
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -28,7 +29,6 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Want to Learn**
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -50,6 +50,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 - [Learn Git and GitHub](https://scrimba.com/learn-git-and-github-c0eh4kd7df) — Scrimba (June 2026)
 - [Learn JavaScript](https://scrimba.com/learn-javascript-c0v) — Scrimba (August 2026)
 - [Learn Modern JavaScript](https://scrimba.com/learn-modern-javascript-c02j) — Scrimba (August 2026)
+- [Learn SQL](https://scrimba.com/learn-sql-c0aviq0aha) — Scrimba (August 2026)
 
 ---
 
