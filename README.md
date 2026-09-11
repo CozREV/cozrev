@@ -16,6 +16,8 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 
 **Backend**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+**Database**
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Learning (GET Academy)**
