@@ -46,6 +46,8 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Grok](https://img.shields.io/badge/-Grok-000000?style=flat&logo=grok&logoColor=white)
 
 ---
 
