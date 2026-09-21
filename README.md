@@ -32,6 +32,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/-AI%20Engineering-6E56CF?style=flat)
+![DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
 **Want to Learn**
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
