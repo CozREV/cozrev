@@ -74,6 +74,16 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 
 ---
 
+### 🌍 Open Source Contributions
+| Project | Contribution | Status |
+|--------|---------------|--------|
+| [PaperMC/Paper](https://github.com/PaperMC/Paper) | Fixed `DragonBattle#initiateRespawn` incorrectly aborting an intentional uncancellable respawn with no crystals | ✅ Merged |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Fixed a duplicate/conflicting `DisableFileSyncNGSC` registry write in the ISO post-install script | ✅ Merged |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Added friendly error messages for known DISM exit codes during Win11 Creator ISO builds | ✅ Merged |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Fixed `WaaSMedicSvc` silently failing to restore after setup (protected service blocked `Set-Service`) | ✅ Merged |
+
+---
+
 ### 📊 GitHub Stats
 ![CozREV's GitHub stats](https://github-readme-stats-kappa-umber-24jjtao0y8.vercel.app/api?username=CozREV&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats-kappa-umber-24jjtao0y8.vercel.app/api/top-langs/?username=CozREV&layout=compact&theme=dark&hide_border=true)
