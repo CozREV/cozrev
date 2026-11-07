@@ -63,7 +63,7 @@ Fullstack developer based in Norway. Currently studying fullstack development at
 ### 📌 Projects
 | Project | Tech | Description |
 |--------|------|-------------|
-| [PackPon](https://github.com/CozREV/PackPon) | JS / MVC | Japan trip planner: packing list, budget tracker, yen converter *(in active development)* |
+| [PackPon](https://github.com/CozREV/PackPon) | JS / MVC | Japan trip planner: packing list, budget tracker, yen converter *(hiatus)* |
 | [TakeawayLarvik](https://github.com/CozREV/TakeawayLarvik) | JS / MVC | Team project: full takeaway ordering system with cart, payment, login, allergy filters and restaurant management |
 | [Jimmy's Diner](https://github.com/CozREV/Jimmy-s-Diner) | JavaScript / HTML / CSS | Interactive restaurant menu app: browse menu, add items to an order, live-updating price summary. Vanilla JS with event delegation and a render-from-state pattern |
 | [Instagram-Clone](https://github.com/CozREV/Instagram-Clone) | HTML/CSS | UI clone built from scratch |
