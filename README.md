@@ -1,7 +1,7 @@
 ### Hi, I'm Kristian 👋
 Fullstack developer based in Norway. Currently studying fullstack development at [GET Academy](https://getacademy.no/start-it) and [Scrimba](https://scrimba.com/fullstack-path-c0fullstack), covering everything from frontend to backend.
-- 🔭 Doing Scrimba's Full Stack Developer Path.
-- 🌱 Learning fullstack at GET Academy + Scrimba - APIs & Async JavaScript
+- 🔭 Doing Scrimba's Full Stack Developer Path and creating a game.
+- 🌱 Learning fullstack at GET Academy + Scrimba.
 - ⚡ Fun fact: I'm making my own game with Godot C# + Blender
 - 📫 How to reach me: kristianafg@proton.me
 
